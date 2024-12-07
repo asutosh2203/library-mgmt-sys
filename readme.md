@@ -56,17 +56,17 @@ This project is implemented entirely in **C++17** with standard libraries and do
 ### Prerequisites
 Before you proceed, ensure you have a C++ compiler such as **g++** or **Visual Studio's C++ compiler** available on your system.
 
-### Clone the repository
+## Clone the repository
 - `git clone https://github.com/<username>/<repository-name>.git`
 - `cd <repository-name>`
 
-### How to Run
+## How to Run
 1. **Compile the program**
-   Use the following command to compile the system:
+   Use the following command to compile the system:  
    `g++ -o library_sys .\main.cpp .\uuid.cpp .\library.cpp -std=c++17`
 
 2. **Run the Executable**
-   After compilation, execute the program:
+   After compilation, execute the program:  
    `./library`
-   Or on Windows:
+   Or on Windows:  
    `./library.exe`
